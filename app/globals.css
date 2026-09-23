@@ -376,8 +376,8 @@ body {
 .modal-overlay {
   position: fixed; inset: 0;
   background: rgba(14, 13, 26, 0.35);
-  backdrop-filter: blur(48px);
-  -webkit-backdrop-filter: blur(48px);
+  backdrop-filter: blur(90px);
+  -webkit-backdrop-filter: blur(90px);
   z-index: 50; display: flex; align-items: center; justify-content: center;
   padding: 1rem;
 }
